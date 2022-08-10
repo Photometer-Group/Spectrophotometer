@@ -566,11 +566,3 @@ while True:
         read_sample()
     
     sleep_ms(250)
-    
-    
-
-
-
-
-
-
